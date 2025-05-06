@@ -21,7 +21,7 @@
 2. upsert nima ?
 3. PSQL dagi qandey muhim command larni bilasiz ?
 4. Constraint nima ?
-* PostgreSQL da qanday constraint lar bor ?
+5. PostgreSQL da qanday constraint lar bor ?
 * foreign key constraint nima ?
 * unique constraint nima ?
 * check constraint nima ?
