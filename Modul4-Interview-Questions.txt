@@ -26,7 +26,7 @@
 7. unique constraint nima ?
 9. check constraint nima ?
 10. not null constraint nima ?
-* primary key constraint nima ?
+11. primary key constraint nima ?
 
 # Lesson 3
 
