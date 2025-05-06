@@ -4,7 +4,7 @@
 2. DBMS nima ?
 3. DBMS ni qandey turlari bor ?
 4. RDBMS nima ?
-* DBMS bilan RDBMS ni nima farqi bor ?
+5. DBMS bilan RDBMS ni nima farqi bor ?
 * SQL nima ?
 * Query nima ?
 * SQL ni qandey elementlari bor ?
