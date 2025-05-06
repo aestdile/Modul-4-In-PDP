@@ -8,7 +8,7 @@
 6. SQL nima ?
 7. Query nima ?
 8. SQL ni qandey elementlari bor ?
-* DDL nima ?
+9. DDL nima ?
 * DML nima ?
 * TCL nima ?
 * DQL nima ?
