@@ -30,7 +30,7 @@
 
 # Lesson 3
 
-* **PostgreSQL** da qandey raqamli tip lar bor ?
+1. "PostgreSQL" da qandey raqamli tip lar bor ?
 * **timestamp** va **timestamptz** nima farqi bor ?
 * Qanday usullarda **uuid** yaratsa bo'ladi ?
 * **hstore** qayday ma'lumot turi xisoblanadi ?
