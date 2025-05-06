@@ -2,7 +2,7 @@
 
 1. Ma'lumotlar ombori(Database) nima ?
 2. DBMS nima ?
-* DBMS ni qandey turlari bor ?
+3. DBMS ni qandey turlari bor ?
 * RDBMS nima ?
 * DBMS bilan RDBMS ni nima farqi bor ?
 * SQL nima ?
