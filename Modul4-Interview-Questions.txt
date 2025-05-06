@@ -17,7 +17,7 @@
 
 # Lesson 2
 
-* Table nima ?
+1. Table nima ?
 * upsert nima ?
 * PSQL dagi qandey muhim command larni bilasiz ?
 * Constraint nima ?
