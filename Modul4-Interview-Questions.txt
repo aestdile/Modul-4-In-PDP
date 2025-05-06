@@ -1,6 +1,6 @@
 # Lesson 1
 
-* Ma'lumotlar ombori(Database) nima ?
+1. Ma'lumotlar ombori(Database) nima ?
 * DBMS nima ?
 * DBMS ni qandey turlari bor ?
 * RDBMS nima ?
