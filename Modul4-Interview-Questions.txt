@@ -11,7 +11,7 @@
 9. DDL nima ?
 10. DML nima ?
 11. TCL nima ?
-* DQL nima ?
+12. DQL nima ?
 * Client Server model nima ?
 * Postgresql uchun qandey client larni bilasiz ?
 
