@@ -32,7 +32,7 @@
 
 1. "PostgreSQL" da qandey raqamli tip lar bor ?
 2. "timestamp" va "timestamptz" nima farqi bor ?
-* Qanday usullarda **uuid** yaratsa bo'ladi ?
+3. Qanday usullarda "uuid" yaratsa bo'ladi ?
 * **hstore** qayday ma'lumot turi xisoblanadi ?
 * **json** da **->** va **->>** farqlari nima ?
 * qanday usullar da **custom** data tip yaratish mumkin ?
