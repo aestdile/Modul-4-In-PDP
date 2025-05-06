@@ -9,8 +9,8 @@
 7. Query nima ?
 8. SQL ni qandey elementlari bor ?
 9. DDL nima ?
-10 DML nima ?
-* TCL nima ?
+10. DML nima ?
+11. TCL nima ?
 * DQL nima ?
 * Client Server model nima ?
 * Postgresql uchun qandey client larni bilasiz ?
