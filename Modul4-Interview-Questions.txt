@@ -18,7 +18,7 @@
 # Lesson 2
 
 1. Table nima ?
-* upsert nima ?
+2. upsert nima ?
 * PSQL dagi qandey muhim command larni bilasiz ?
 * Constraint nima ?
 * PostgreSQL da qanday constraint lar bor ?
