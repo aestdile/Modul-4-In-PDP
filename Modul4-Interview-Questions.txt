@@ -23,7 +23,7 @@
 4. Constraint nima ?
 5. PostgreSQL da qanday constraint lar bor ?
 6. foreign key constraint nima ?
-* unique constraint nima ?
+7. unique constraint nima ?
 * check constraint nima ?
 * not null constraint nima ?
 * primary key constraint nima ?
