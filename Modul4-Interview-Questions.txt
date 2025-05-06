@@ -13,7 +13,7 @@
 11. TCL nima ?
 12. DQL nima ?
 13. Client Server model nima ?
-* Postgresql uchun qandey client larni bilasiz ?
+14. Postgresql uchun qandey client larni bilasiz ?
 
 # Lesson 2
 
