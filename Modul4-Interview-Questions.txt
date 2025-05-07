@@ -40,7 +40,7 @@
 8. "sequence" nima ?
 9. "generated as identity" nima ?
 10. "temp" yoki "temporary" table qanday table ?
-* **copy table** qanday table ?
+11. **copy table** qanday table ?
 
 # Lesson 4
 
