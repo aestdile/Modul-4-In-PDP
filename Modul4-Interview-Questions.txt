@@ -35,7 +35,7 @@
 3. Qanday usullarda "uuid" yaratsa bo'ladi ?
 4. "hstore" qayday ma'lumot turi xisoblanadi ?
 5. "json" da "->" va "->>" farqlari nima ?
-* qanday usullar da **custom** data tip yaratish mumkin ?
+6. qanday usullar da **custom** data tip yaratish mumkin ?
 * **domain** bilan **type** ni nima fariq bor ?
 * **sequence** nima ?
 * **generated as identity** nima ?
