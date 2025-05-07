@@ -38,7 +38,7 @@
 6. qanday usullar da "custom" data tip yaratish mumkin ?
 7. "domain" bilan "type" ni nima fariq bor ?
 8. "sequence" nima ?
-9. **generated as identity** nima ?
+9. "generated as identity" nima ?
 * **temp** yoki **temporary** table qanday table ?
 * **copy table** qanday table ?
 
