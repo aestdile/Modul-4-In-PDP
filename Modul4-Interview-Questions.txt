@@ -45,7 +45,7 @@
 # Lesson 4
 
 1. column alies nima ?
-* **order by clause** ni tushuntiring ?
+2. **order by clause** ni tushuntiring ?
 * **distinct** nima ?
 * **between** operaatori nima uchun kerak ?
 * **like** va **ilike** operatorlarini faqri qanday
