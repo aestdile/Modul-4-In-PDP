@@ -47,7 +47,7 @@
 1. column alies nima ?
 2. "order by clause" ni tushuntiring ?
 3. "distinct" nima ?
-* **between** operaatori nima uchun kerak ?
+4. **between** operaatori nima uchun kerak ?
 * **like** va **ilike** operatorlarini faqri qanday
 * **all**, **any**, **exists** vazifalari, nima maqsadlar da ishlatiladi ?
 
