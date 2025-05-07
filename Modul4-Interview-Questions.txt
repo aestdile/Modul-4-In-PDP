@@ -39,7 +39,7 @@
 7. "domain" bilan "type" ni nima fariq bor ?
 8. "sequence" nima ?
 9. "generated as identity" nima ?
-10. **temp** yoki **temporary** table qanday table ?
+10. "temp" yoki "temporary" table qanday table ?
 * **copy table** qanday table ?
 
 # Lesson 4
