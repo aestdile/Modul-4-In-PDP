@@ -37,7 +37,7 @@
 5. "json" da "->" va "->>" farqlari nima ?
 6. qanday usullar da "custom" data tip yaratish mumkin ?
 7. "domain" bilan "type" ni nima fariq bor ?
-* **sequence** nima ?
+8. **sequence** nima ?
 * **generated as identity** nima ?
 * **temp** yoki **temporary** table qanday table ?
 * **copy table** qanday table ?
