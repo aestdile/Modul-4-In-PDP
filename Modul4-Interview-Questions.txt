@@ -48,7 +48,7 @@
 2. "order by clause" ni tushuntiring ?
 3. "distinct" nima ?
 4. "between" operaatori nima uchun kerak ?
-5. "like" va "ilike" operatorlarini faqri qanday
+5. "like" va "ilike" operatorlarini faqri qanday ?
 * **all**, **any**, **exists** vazifalari, nima maqsadlar da ishlatiladi ?
 
 # Lesson 5
