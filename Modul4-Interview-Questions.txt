@@ -53,7 +53,7 @@
 
 # Lesson 5
 
-1. **CONCAT_WS**  funksiyasini vazifasi nima ?
+1. "CONCAT_WS**  funksiyasini vazifasi nima ?
 * **to_date**  funksiyasini vazifasi nima va qandey ishlaydi ?
 * **like** va **ilike** ni farqi nima ?
 * **similar to** ning vazifasi nima ?
