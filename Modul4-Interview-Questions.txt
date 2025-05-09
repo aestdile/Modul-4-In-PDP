@@ -55,7 +55,7 @@
 
 1. "CONCAT_WS"  funksiyasini vazifasi nima ?
 2. "to_date"  funksiyasini vazifasi nima va qandey ishlaydi ?
-3. "like** va **ilike** ni farqi nima ?
+3. "like" va **ilike** ni farqi nima ?
 * **similar to** ning vazifasi nima ?
 * **posix regular expression** ning vazifasi nima ?
 
