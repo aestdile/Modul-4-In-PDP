@@ -4,7 +4,7 @@
 2. **GROUP BY Statement** sintaksisi qanday ?
 3. **Having clause** qachon ishlatiladi ?
 4. **Having clause** sintaksisi qanday ?
-* **Having clause** va **Where clause** qanday farqi bor ?
+5. **Having clause** va **Where clause** qanday farqi bor ?
 * **Union Statement** ning vazifasi nima, nima uchun ishlatiladi ?
 * **Union Statement** sintaksisi qanday ?
 * **Intersect Statement** nima ?
