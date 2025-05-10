@@ -1,6 +1,6 @@
 # Lesson 6
 
-1. "GROUP BY Statement** qachon ishlatiladi(nima uchun kerak) ?
+1. "GROUP BY Statement" qachon ishlatiladi(nima uchun kerak) ?
 2. "GROUP BY Statement** sintaksisi qanday ?
 3. "Having clause** qachon ishlatiladi ?
 4. "Having clause** sintaksisi qanday ?
