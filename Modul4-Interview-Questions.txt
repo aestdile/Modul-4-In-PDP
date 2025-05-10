@@ -1,3 +1,25 @@
+# Lesson 6
+
+* **GROUP BY Statement** qachon ishlatiladi(nima uchun kerak) ?
+* **GROUP BY Statement** sintaksisi qanday ?
+* **Having clause** qachon ishlatiladi ?
+* **Having clause** sintaksisi qanday ?
+* **Having clause** va **Where clause** qanday farqi bor ?
+* **Union Statement** ning vazifasi nima, nima uchun ishlatiladi ?
+* **Union Statement** sintaksisi qanday ?
+* **Intersect Statement** nima ?
+* **Intersect Statement** ni sintaksisi qanday ?
+* **Except Statement** nima ?
+* **Except Statement** ni sintaksisi qanday ?
+* **View** nima ?
+* **Virtual table** nima ?
+* **Standart view** qanday ishlaydi ?
+* **Materialized view** nima ?
+* **Materialized view** qanday ishlaydi ?
+* Qanday qilib **Materialized view** dagi ma'lumotlarni yangilash mumkin ?
+
+
+
 # Lesson 1
 
 1. Ma'lumotlar ombori(Database) nima ?
@@ -59,25 +81,6 @@
 4. "similar to" ning vazifasi nima ?
 5. "posix regular expression" ning vazifasi nima ?
 
-# Lesson 6
-
-* **GROUP BY Statement** qachon ishlatiladi(nima uchun kerak) ?
-* **GROUP BY Statement** sintaksisi qanday ?
-* **Having clause** qachon ishlatiladi ?
-* **Having clause** sintaksisi qanday ?
-* **Having clause** va **Where clause** qanday farqi bor ?
-* **Union Statement** ning vazifasi nima, nima uchun ishlatiladi ?
-* **Union Statement** sintaksisi qanday ?
-* **Intersect Statement** nima ?
-* **Intersect Statement** ni sintaksisi qanday ?
-* **Except Statement** nima ?
-* **Except Statement** ni sintaksisi qanday ?
-* **View** nima ?
-* **Virtual table** nima ?
-* **Standart view** qanday ishlaydi ?
-* **Materialized view** nima ?
-* **Materialized view** qanday ishlaydi ?
-* Qanday qilib **Materialized view** dagi ma'lumotlarni yangilash mumkin ?
 
 # Lesson 7
 
