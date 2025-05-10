@@ -5,7 +5,7 @@
 3. **Having clause** qachon ishlatiladi ?
 4. **Having clause** sintaksisi qanday ?
 5. **Having clause** va **Where clause** qanday farqi bor ?
-* **Union Statement** ning vazifasi nima, nima uchun ishlatiladi ?
+6. **Union Statement** ning vazifasi nima, nima uchun ishlatiladi ?
 * **Union Statement** sintaksisi qanday ?
 * **Intersect Statement** nima ?
 * **Intersect Statement** ni sintaksisi qanday ?
