@@ -8,7 +8,7 @@
 6. "Union Statement" ning vazifasi nima, nima uchun ishlatiladi ?
 7. "Union Statement" sintaksisi qanday ?
 8. "Intersect Statement" nima ?
-9. **Intersect Statement** ni sintaksisi qanday ?
+9. "Intersect Statement** ni sintaksisi qanday ?
 10. **Except Statement** nima ?
 11. **Except Statement** ni sintaksisi qanday ?
 12. **View** nima ?
