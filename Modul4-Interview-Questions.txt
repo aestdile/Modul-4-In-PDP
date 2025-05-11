@@ -9,7 +9,7 @@
 7. "Union Statement" sintaksisi qanday ?
 8. "Intersect Statement" nima ?
 9. **Intersect Statement** ni sintaksisi qanday ?
-* **Except Statement** nima ?
+10. **Except Statement** nima ?
 * **Except Statement** ni sintaksisi qanday ?
 * **View** nima ?
 * **Virtual table** nima ?
