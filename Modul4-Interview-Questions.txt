@@ -125,6 +125,3 @@
 * **Tablespace** nima ?
 * Qanday qilib _custom_ **tablespace** yaratish mumkin ?
 * **Schema** nima ?
-
-
-
