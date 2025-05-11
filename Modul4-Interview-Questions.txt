@@ -79,7 +79,6 @@
 16. "Materialized view" qanday ishlaydi ?
 17. Qanday qilib "Materialized view" dagi ma'lumotlarni yangilash mumkin ?
 
-
 # Lesson 7
 
 * **PL/pgSQL** nima ?
