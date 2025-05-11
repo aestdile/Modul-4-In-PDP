@@ -11,7 +11,7 @@
 9. **Intersect Statement** ni sintaksisi qanday ?
 10. **Except Statement** nima ?
 11. **Except Statement** ni sintaksisi qanday ?
-* **View** nima ?
+12. **View** nima ?
 * **Virtual table** nima ?
 * **Standart view** qanday ishlaydi ?
 * **Materialized view** nima ?
