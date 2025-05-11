@@ -13,7 +13,7 @@
 11. "Except Statement" ni sintaksisi qanday ?
 12. "View" nima ?
 13. "Virtual table" nima ?
-14. **Standart view** qanday ishlaydi ?
+14. "Standart view** qanday ishlaydi ?
 15. **Materialized view** nima ?
 16. **Materialized view** qanday ishlaydi ?
 17. Qanday qilib **Materialized view** dagi ma'lumotlarni yangilash mumkin ?
