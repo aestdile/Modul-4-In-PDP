@@ -1,7 +1,7 @@
 # Lesson 7
 
 1. "PL/pgSQL" nima ?
-2. Nima uchun "PL/pgSQL** foydalanish kerak ?
+2. Nima uchun "PL/pgSQL foydalanish kerak ?
 3. **Dollar-Quoted string constant** nima ?
 4. **Anonymous block** nima ?
 5. **rowtype** qanday o'zgaruvchi ?
