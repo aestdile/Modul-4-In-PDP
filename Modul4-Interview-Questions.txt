@@ -9,7 +9,7 @@
 7. Qanday qilib o'zgaruvchilarni "constant" qilib qo'ysa bo'ladi ?
 8. "IF statement" sintaksisi qanday ?
 9. "CASE statement" sintaksisi qanday ?
-10. "PL/pgSQL" da qanday usullarda **sikl** hosil qilsa boladi ?
+10. "PL/pgSQL" da qanday usullarda "sikl** hosil qilsa boladi ?
 
 
 # Lesson 1
