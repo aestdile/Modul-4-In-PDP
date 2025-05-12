@@ -1,6 +1,6 @@
 # Lesson 7
 
-* **PL/pgSQL** nima ?
+1. **PL/pgSQL** nima ?
 * Nima uchun **PL/pgSQL** foydalanish kerak ?
 * **Dollar-Quoted string constant** nima ?
 * **Anonymous block** nima ?
