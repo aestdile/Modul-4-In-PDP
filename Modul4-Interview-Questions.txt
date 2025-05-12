@@ -7,7 +7,7 @@
 5. **rowtype** qanday o'zgaruvchi ?
 6. **record** qanday o'zgaruvchi ?
 7. Qanday qilib o'zgaruvchilarni **constant** qilib qo'ysa bo'ladi ?
-* **IF statement** sintaksisi qanday ?
+8. **IF statement** sintaksisi qanday ?
 * **CASE statement** sintaksisi qanday ?
 * **PL/pgSQL** da qanday usullarda **sikl** hosil qilsa boladi ?
 
