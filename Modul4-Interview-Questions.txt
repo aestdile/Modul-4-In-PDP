@@ -6,7 +6,7 @@
 4. **Anonymous block** nima ?
 5. **rowtype** qanday o'zgaruvchi ?
 6. **record** qanday o'zgaruvchi ?
-* Qanday qilib o'zgaruvchilarni **constant** qilib qo'ysa bo'ladi ?
+7. Qanday qilib o'zgaruvchilarni **constant** qilib qo'ysa bo'ladi ?
 * **IF statement** sintaksisi qanday ?
 * **CASE statement** sintaksisi qanday ?
 * **PL/pgSQL** da qanday usullarda **sikl** hosil qilsa boladi ?
