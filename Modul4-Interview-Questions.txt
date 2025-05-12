@@ -8,7 +8,7 @@
 6. **record** qanday o'zgaruvchi ?
 7. Qanday qilib o'zgaruvchilarni **constant** qilib qo'ysa bo'ladi ?
 8. **IF statement** sintaksisi qanday ?
-* **CASE statement** sintaksisi qanday ?
+9. **CASE statement** sintaksisi qanday ?
 * **PL/pgSQL** da qanday usullarda **sikl** hosil qilsa boladi ?
 
 
