@@ -2,7 +2,7 @@
 
 1. **PL/pgSQL** nima ?
 2. Nima uchun **PL/pgSQL** foydalanish kerak ?
-* **Dollar-Quoted string constant** nima ?
+3. **Dollar-Quoted string constant** nima ?
 * **Anonymous block** nima ?
 * **rowtype** qanday o'zgaruvchi ?
 * **record** qanday o'zgaruvchi ?
