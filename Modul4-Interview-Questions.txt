@@ -1,3 +1,17 @@
+# Lesson 7
+
+* **PL/pgSQL** nima ?
+* Nima uchun **PL/pgSQL** foydalanish kerak ?
+* **Dollar-Quoted string constant** nima ?
+* **Anonymous block** nima ?
+* **rowtype** qanday o'zgaruvchi ?
+* **record** qanday o'zgaruvchi ?
+* Qanday qilib o'zgaruvchilarni **constant** qilib qo'ysa bo'ladi ?
+* **IF statement** sintaksisi qanday ?
+* **CASE statement** sintaksisi qanday ?
+* **PL/pgSQL** da qanday usullarda **sikl** hosil qilsa boladi ?
+
+
 # Lesson 1
 
 1. Ma'lumotlar ombori(Database) nima ?
