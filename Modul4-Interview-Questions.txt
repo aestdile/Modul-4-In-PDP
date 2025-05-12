@@ -5,7 +5,7 @@
 3. "Dollar-Quoted string constant nima ?
 4. "Anonymous block" nima ?
 5. "rowtype" qanday o'zgaruvchi ?
-6. "record** qanday o'zgaruvchi ?
+6. "record qanday o'zgaruvchi ?
 7. Qanday qilib o'zgaruvchilarni **constant** qilib qo'ysa bo'ladi ?
 8. **IF statement** sintaksisi qanday ?
 9. **CASE statement** sintaksisi qanday ?
