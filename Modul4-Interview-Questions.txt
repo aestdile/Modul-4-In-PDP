@@ -2,7 +2,7 @@
 
 1. "RAISE statement" ning maqsadi sintaksisi ?
 2. "RAISE statement" da nechta "level" bor ?
-3. "RAISE statement" da "default level** qanday ?
+3. "RAISE statement" da "default level" qanday ?
 4. "Exception handling** qanday amalga oshiriladi **PL/pgSQL** da ?
 5. "function** nima ?
 6. "procedure** nima ?
