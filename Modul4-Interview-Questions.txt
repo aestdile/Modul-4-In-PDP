@@ -7,7 +7,7 @@
 5. **function** nima ?
 6. **procedure** nima ?
 7. **in**, **out**, **inout** parameter lar farqilari ?
-* **Function** dan qanday qilib table qaytarish mumin ?
+8. **Function** dan qanday qilib table qaytarish mumin ?
 * **Trigger** nima ?
 
 # Lesson 1
