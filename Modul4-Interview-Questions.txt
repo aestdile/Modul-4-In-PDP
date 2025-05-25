@@ -1,6 +1,6 @@
 # Lesson 8
 
-* **RAISE statement** ning maqsadi sintaksisi ?
+1. **RAISE statement** ning maqsadi sintaksisi ?
 * **RAISE statement** da nechta **level** bor ?
 * **RAISE statement** da **default level** qanday ?
 * **Exception handling** qanday amalga oshiriladi **PL/pgSQL** da ?
