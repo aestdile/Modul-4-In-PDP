@@ -1,3 +1,15 @@
+# Lesson 8
+
+* **RAISE statement** ning maqsadi sintaksisi ?
+* **RAISE statement** da nechta **level** bor ?
+* **RAISE statement** da **default level** qanday ?
+* **Exception handling** qanday amalga oshiriladi **PL/pgSQL** da ?
+* **function** nima ?
+* **procedure** nima ?
+* **in**, **out**, **inout** parameter lar farqilari ?
+* **Function** dan qanday qilib table qaytarish mumin ?
+* **Trigger** nima ?
+
 # Lesson 1
 
 1. Ma'lumotlar ombori(Database) nima ?
@@ -92,17 +104,7 @@
 9. "CASE statement" sintaksisi qanday ?
 10. "PL/pgSQL" da qanday usullarda "sikl" hosil qilsa bo'ladi ?
 
-# Lesson 8
 
-* **RAISE statement** ning maqsadi sintaksisi ?
-* **RAISE statement** da nechta **level** bor ?
-* **RAISE statement** da **default level** qanday ?
-* **Exception handling** qanday amalga oshiriladi **PL/pgSQL** da ?
-* **function** nima ?
-* **procedure** nima ?
-* **in**, **out**, **inout** parameter lar farqilari ?
-* **Function** dan qanday qilib table qaytarish mumin ?
-* **Trigger** nima ?
 
 # Lesson 9
 
