@@ -3,7 +3,7 @@
 1. **ACID** nima ?
 2. **Transaction** nima ?
 3. **rollback** ning vazifasi nima ?
-* **savepoint** ning vazifasi nima ?
+4. **savepoint** ning vazifasi nima ?
 * Table ni join qilish nima degani ?
 * **Postgresql** da necha xil join bor ?
 * **Natural join** qanday join ?
