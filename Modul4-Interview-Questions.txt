@@ -5,7 +5,7 @@
 3. **rollback** ning vazifasi nima ?
 4. **savepoint** ning vazifasi nima ?
 5. Table ni join qilish nima degani ?
-* **Postgresql** da necha xil join bor ?
+6. **Postgresql** da necha xil join bor ?
 * **Natural join** qanday join ?
 * **index** nima uhcun ishlatiladi ?
 * **unique index** bilan **index** ni farqi nima ?
