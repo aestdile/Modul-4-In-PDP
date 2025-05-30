@@ -1,6 +1,6 @@
 # Lesson 9
 
-* **ACID** nima ?
+1. **ACID** nima ?
 * **Transaction** nima ?
 * **rollback** ning vazifasi nima ?
 * **savepoint** ning vazifasi nima ?
