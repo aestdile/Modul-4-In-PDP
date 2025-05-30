@@ -1,5 +1,3 @@
-
-
 # Lesson 1
 
 1. Ma'lumotlar ombori(Database) nima ?
@@ -106,7 +104,17 @@
 8. "Function" dan qanday qilib table qaytarish mumin ?
 9. "Trigger" nima ?
 
+# Lesson 9
 
+1. "ACID" nima ?
+2. "Transaction" nima ?
+3. "rollback" ning vazifasi nima ?
+4. "savepoint" ning vazifasi nima ?
+5. Table ni join qilish nima degani ?
+6. "Postgresql" da necha xil join bor ?
+7. "Natural join" qanday join ?
+8. "index" nima uchun ishlatiladi ?
+9. "unique index" bilan "index" ni farqi nima ?
 
 # Lesson 10
 
