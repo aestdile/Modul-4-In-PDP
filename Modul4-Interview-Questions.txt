@@ -7,7 +7,7 @@
 5. Table ni join qilish nima degani ?
 6. "Postgresql" da necha xil join bor ?
 7. "Natural join" qanday join ?
-8. "index" nima uhcun ishlatiladi ?
+8. "index" nima uchun ishlatiladi ?
 9. **unique index** bilan **index** ni farqi nima ?
 
 # Lesson 1
