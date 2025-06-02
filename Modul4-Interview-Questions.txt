@@ -2,7 +2,7 @@
 2. **Role** yaratish sintaksisi qanday ?
 3. **grant** ning vazifasi nima ?
 4. **revoke** ning vazifasi qanday ?
-* **Tablespace** nima ?
+5. **Tablespace** nima ?
 * Qanday qilib _custom_ **tablespace** yaratish mumkin ?
 * **Schema** nima ?
 
