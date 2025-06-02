@@ -1,4 +1,4 @@
-1. "Postgresql" da **ROLE** qanday tushuncha ?
+1. "Postgresql" da "ROLE** qanday tushuncha ?
 2. **Role** yaratish sintaksisi qanday ?
 3. **grant** ning vazifasi nima ?
 4. **revoke** ning vazifasi qanday ?
