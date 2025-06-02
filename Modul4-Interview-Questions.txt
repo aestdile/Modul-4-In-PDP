@@ -118,10 +118,4 @@
 
 # Lesson 10
 
-* **Postgresql** da **ROLE** qanday tushuncha ?
-* **Role** yaratish sintaksisi qanday ?
-* **grant** ning vazifasi nima ?
-* **revoke** ning vazifasi qanday ?
-* **Tablespace** nima ?
-* Qanday qilib _custom_ **tablespace** yaratish mumkin ?
-* **Schema** nima ?
+
