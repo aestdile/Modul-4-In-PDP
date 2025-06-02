@@ -1,10 +1,4 @@
-1. "Postgresql" da "ROLE" qanday tushuncha ?
-2. "Role" yaratish sintaksisi qanday ?
-3. "grant" ning vazifasi nima ?
-4. "revoke" ning vazifasi qanday ?
-5. "Tablespace" nima ?
-6. Qanday qilib _custom_ "tablespace" yaratish mumkin ?
-7. "Schema" nima ?
+
 
 # Lesson 1
 
@@ -126,4 +120,11 @@
 
 # Lesson 10
 
+1. "Postgresql" da "ROLE" qanday tushuncha ?
+2. "Role" yaratish sintaksisi qanday ?
+3. "grant" ning vazifasi nima ?
+4. "revoke" ning vazifasi qanday ?
+5. "Tablespace" nima ?
+6. Qanday qilib _custom_ "tablespace" yaratish mumkin ?
+7. "Schema" nima ?
 
