@@ -4,7 +4,7 @@
 4. **revoke** ning vazifasi qanday ?
 5. **Tablespace** nima ?
 6. Qanday qilib _custom_ **tablespace** yaratish mumkin ?
-* **Schema** nima ?
+7. **Schema** nima ?
 
 # Lesson 1
 
